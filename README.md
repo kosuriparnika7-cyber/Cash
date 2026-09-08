@@ -20,8 +20,6 @@ The program always uses the largest possible coin first, then moves to the next 
 ### Example
 
 For **63 cents**:
-
-```text
 25 + 25 + 10 + 1 + 1 + 1 = 63
 That means the minimum number of coins is: 6
 ✨ Features
@@ -46,4 +44,4 @@ Greedy algorithms
 
 This project was completed as part of Week 1 of Harvard's CS50.
 
-Built while learning the fundamentals of C and problem solving. 💻
+Built while learning the fundamentals of C and problem-solving. 💻
